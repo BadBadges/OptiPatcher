@@ -1,6 +1,13 @@
 # OptiPatcher
 An **ASI Plugin for OptiScaler** for exposing DLSS/DLSS-FG inputs without spoofing in **supported games**.  
 
+<div align="center">
+  <a href="https://discord.gg/wEyd9w4hG5"><img src="https://img.shields.io/badge/OptiScaler-blue?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto&color=5865F2" alt="Discord invite"></a>
+  <a href="https://github.com/optiscaler/OptiPatcher/releases"><img src="https://img.shields.io/badge/Releases-download-green?style=for-the-badge&logo=github&logoSize=auto" alt="Release"></a>
+  <a href="https://github.com/optiscaler/OptiPatcher/releases"><img src="https://img.shields.io/github/downloads/optiscaler/optipatcher/total?style=for-the-badge&logo=gitextensions&logoSize=auto&label=Total" alt="Total DL"></a>
+  <a href="https://github.com/optiscaler/OptiPatcher/stargazers"><img src="https://img.shields.io/github/stars/optiscaler/optipatcher?style=for-the-badge&logo=githubsponsors&logoColor=white&label=S.T.A.R.S." alt="Stars"></a>
+</div>
+
 > [!NOTE]
 > * It should help Intel Arc users the most because with newer versions of Unreal Engine spoofing has issues, causing `D3D12 not supported` errors.  
 > * Now with DLSSG patching, all AMD/Intel users benefit too.  
